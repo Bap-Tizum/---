@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+	margin: auto;
+	}
+
+td {
+    padding: 5px;
+    border: 2px solid lightgray;
+	}
+
+th {
+    padding: 10px;
+    border: 1px solid black;
+	}
+
+caption {
+    margin-bottom: 8px;
+	font-size: 16px;
+	}
+h1{
+	text-align: center;
+}
+body{
+	background-color: #faf2e5;
+}
+p{
+	text-align: center;
+}
+ul{
+	text-align: center;
+}
